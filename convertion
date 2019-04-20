@@ -1,0 +1,10 @@
+#!/bin/bash
+
+declare -i n
+in=inches
+cm=centimetres
+
+read number in "as" centimetres
+if [ ]; then
+    echo "$n $in = $[n/12] $cm"
+fi
